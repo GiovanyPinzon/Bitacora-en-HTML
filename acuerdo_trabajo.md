@@ -8,7 +8,7 @@ Al participar en este repositorio, todos los integrantes aceptan y se compromete
 
 | Nombre                  | Rol            | Usuario de GitHub |
 | :---------------------- | :------------- | :---------------- |
-| [Nombre del Aprendiz 1] | Líder          | `@usuario1`       |
+| [Giovany Arley Pinzon Cardenas] | Líder  | `@GiovanyPinzon`       |
 | [Nombre del Aprendiz 2] | Desarrollador1 | `@usuario2`       |
 | [Nombre del Aprendiz 3] | Desarrollador2 | `@usuario3`       |
 
@@ -93,3 +93,11 @@ El objetivo es que cada integrante pueda desarrollar su parte del trabajo de man
 ---
 
 > **Firma Digital:** La creación de este archivo y los commits asociados a él representan la aceptación de este acuerdo por parte de todos los integrantes del equipo.
+
+Firmas de los integrantes:
+
+[Giovany Arley Pinzon Cardenas] Líder
+
+[Nombre del Desarrollador 1] Desarrollador
+
+[Nombre del Desarrollador 2] Desarrollador
