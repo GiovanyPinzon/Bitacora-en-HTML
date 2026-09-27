@@ -9,7 +9,7 @@ Al participar en este repositorio, todos los integrantes aceptan y se compromete
 | Nombre                  | Rol            | Usuario de GitHub |
 | :---------------------- | :------------- | :---------------- |
 | [Giovany Arley Pinzon Cardenas] | Líder  | `@GiovanyPinzon`       |
-| [Nombre del Aprendiz 2] | Desarrollador1 | `@usuario2`       |
+| [Jose david suarez quintero] | Desarrollador1 | `davidsuqui`       |
 | [carlos andres bello rodriguez] | Desarrollador2 | `carlosbellorodri04-cloud@`       |
 
 El líder será el encargado de coordinar el trabajo del equipo, revisar los cambios realizados por los desarrolladores y realizar la integración final de las ramas hacia `main`.
@@ -98,7 +98,7 @@ Firmas de los integrantes:
 
 [Giovany Arley Pinzon Cardenas] Líder
 
-[Nombre del Desarrollador 1] Desarrollador
+[Jose David Suarez Quintero] Desarrollador
 
 [carlos andres bello rodriguez] Desarrollador
 
