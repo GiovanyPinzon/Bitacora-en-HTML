@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politica</title>
+</head>
+
+<body>
+    <main>
+        <header>
+            <h2>REGLAS DE POLITICA</h2>
+            <ul>
+            <h2>Reglas de Registro</h2>
+
+            <h4>1. Responsabilidad Única (SRP)</h4>
+            <p>
+            Cada fila debe documentar un solo evento, tarea o impedimento indivisible.
+            Si se realizaron tres actividades durante el día, se deben registrar en tres filas independientes.
+            </p>
+
+            <h4>2. Cero Adjetivos Subjetivos</h4>
+            <p>
+            Está prohibido utilizar expresiones subjetivas como:
+            </p>
+
+            <ul>
+            <li>“Estuvo chévere”.</li>
+            <li>“Fue difícil”.</li>
+            <li>“Avanzamos bien”.</li>
+            </ul>
+
+            <p>
+            Los registros deben contener únicamente hechos técnicos verificables.
+            </p>
+
+            <h4>3. Inmutabilidad</h4>
+            <p>
+            Los registros históricos no deben eliminarse ni sobrescribirse.
+            Si un registro contiene un error o requiere un cambio, se debe crear un nuevo registro
+            con la fecha actual e indicar:
+            </p>
+
+            <p>
+            <strong>“Corrección/Ajuste al registro ID [X]”</strong>
+            </p>
+
+            <h4>4. Impedimentos</h4>
+            <p>
+            Si no se presentaron dificultades durante la ejecución de una actividad,
+            se debe escribir expresamente:
+            </p>
+
+            <p>
+            <strong>“Sin impedimentos operativos”.</strong>
+            </p>
+
+            <p>
+            Si se presentó un impedimento, se debe describir técnicamente qué se ejecutó,
+            qué falló y qué resultado se esperaba.
+            </p>
+
+            <h2>Guía de Llenado</h2>
+
+            <h4>ID</h4>
+            <p>
+            Número consecutivo y único para cada actividad o fila.
+            Ejemplo: <strong>001, 002, 003</strong>.
+            </p>
+
+            <h4>Timestamp (YYYY-MM-DD HH:MM)</h4>
+            <p>
+            Fecha y hora exacta en la que se registra o ejecuta la actividad,
+            utilizando el formato <strong>AAAA-MM-DD HH:MM</strong>.
+            </p>
+
+            <h4>Autoría (Responsable)</h4>
+            <p>
+            Nombre o iniciales del aprendiz responsable de ejecutar la actividad.
+            </p>
+
+            <h4>Objeto Técnico (Actividad y Alcance)</h4>
+            <p>
+            Descripción técnica, objetiva, concreta y verificable de la actividad
+            realizada y su alcance real.
+            </p>
+
+            <h4>Evidencia de Ejecución (Entregable / Enlace)</h4>
+            <p>
+            URL del commit, enlace al Pull Request, captura de pantalla o documento
+            entregable que permita verificar la ejecución de la actividad.
+            </p>
+
+            <h4>Impedimentos / Blockers</h4>
+            <p>
+            Descripción técnica del error o impedimento presentado, indicando
+            qué se ejecutó, qué falló y qué resultado se esperaba.
+            Si no hubo dificultades, escribir:
+            </p>
+
+            <p>
+            <strong>“Sin impedimentos operativos”.</strong>
+            </p>
+
+            <h4>Plan de Acción (Mitigación / Próxima Tarea)</h4>
+            <p>
+            Acción correctiva realizada, próxima tarea programada o paso necesario
+            para continuar con la actividad o solucionar el impedimento.
+            </p>
+
+            <h4>Principio General</h4>
+
+            <ul>
+            <li><strong>Único:</strong> cada registro corresponde a una actividad.</li>
+            <li><strong>Verificable:</strong> debe contar con evidencia.</li>
+            <li><strong>Objetivo:</strong> debe contener hechos técnicos.</li>
+            <li><strong>Trazable:</strong> debe permitir identificar responsable y evidencia.</li>
+            <li><strong>Inmutable:</strong> los registros históricos no se sobrescriben.</li>
+            </ul>
+        </header>
+    </main>
+</body>
+
+</html>
