@@ -10,7 +10,7 @@ Al participar en este repositorio, todos los integrantes aceptan y se compromete
 | :---------------------- | :------------- | :---------------- |
 | [Giovany Arley Pinzon Cardenas] | Líder  | `@GiovanyPinzon`       |
 | [Nombre del Aprendiz 2] | Desarrollador1 | `@usuario2`       |
-| [Nombre del Aprendiz 3] | Desarrollador2 | `@usuario3`       |
+| [carlos andres bello rodriguez] | Desarrollador2 | `carlosbellorodri04-cloud@`       |
 
 El líder será el encargado de coordinar el trabajo del equipo, revisar los cambios realizados por los desarrolladores y realizar la integración final de las ramas hacia `main`.
 
@@ -100,4 +100,5 @@ Firmas de los integrantes:
 
 [Nombre del Desarrollador 1] Desarrollador
 
-[Nombre del Desarrollador 2] Desarrollador
+[carlos andres bello rodriguez] Desarrollador
+
